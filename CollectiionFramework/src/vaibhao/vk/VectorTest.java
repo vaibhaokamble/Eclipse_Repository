@@ -1,0 +1,21 @@
+package vaibhao.vk;
+
+import java.util.*;
+
+public class VectorTest {
+
+	public static void main(String[] args) {
+
+		// TODO Auto-generated method stub
+
+		ArrayList aList = new ArrayList<>();
+
+		aList.add(10);
+		aList.add(200);
+		aList.add(20);
+
+		Vector vector = new Vector(aList);
+
+		System.out.println(vector);
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;vaibhao.vk.ArrayApp&apos; to &apos;MaxNumArray&apos;&#x0D;&#x0A;- Original project: &apos;ArrayApplication&apos;&#x0D;&#x0A;- Original element: &apos;vaibhao.vk.ArrayApp&apos;&#x0D;&#x0A;- Renamed element: &apos;vaibhao.vk.MaxNumArray&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ArrayApp&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;vaibhao.vk{ArrayApp.java[ArrayApp" matchStrategy="1" name="MaxNumArray" qualified="false" references="true" similarDeclarations="false" stamp="1697368458534" textual="false" version="1.0"/>
+</session>
